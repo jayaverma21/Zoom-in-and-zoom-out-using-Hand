@@ -14,7 +14,7 @@ This project demonstrates how to use hand gestures to zoom in and out of a webca
 + cvzone
 
 # Installation of library
-+ pip install opencv-python numpy cvzone
+```pip install opencv-python numpy cvzone```
 
 # Code Explanation :- 
 The main script zoom_in_out_hand_gesture.py does the following:
